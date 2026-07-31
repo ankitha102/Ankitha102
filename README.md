@@ -49,18 +49,31 @@
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitha102&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitha102&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitha102&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitha102&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitha102&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ankitha102&theme=tokyonight&hide_border=false)
+
+![Top Languages]https://github-readme-stats.vercel.app/api/top-langs/?username=ankitha102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ankitha-sahukari-458917315?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📧 Email: ankithasahukari@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankitha-sahukari-458917315">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
----
+  <a href="mailto:ankithasahukari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.**
