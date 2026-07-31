@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Ankitha Sahukari</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel </h3>
+<h3 align="center">📊 Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
 
 ---
 
