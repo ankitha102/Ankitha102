@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankitha Sahukari</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI </h3>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel </h3>
 
 ---
 
